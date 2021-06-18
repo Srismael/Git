@@ -97,3 +97,6 @@ in State Pattern, we are going create states for to the change of behavior in th
 Proxy Pattern
 
 the utility into of proxy pattern is use a class for represent another class of way more easy, the second class serves of intermediary.
+
+
+in conclusion is very important the develop of the projects
