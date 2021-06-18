@@ -1,6 +1,6 @@
 Principles
 
-SOLID 
+SOLID the principle
 
 SOLID is a principle very important in the moment of Object Oriented Design, allow that the developer make systems more efficient and the possibility higher growth.
 
