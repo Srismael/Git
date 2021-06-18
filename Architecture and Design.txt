@@ -1,0 +1,99 @@
+Principles
+
+SOLID 
+
+SOLID is a principle very important in the moment of Object Oriented Design, allow that the developer make systems more efficient and the possibility higher growth.
+
+SOLID is an acronym created by Robert C. Martín
+
+
+S-Single-responsibility Principle
+
+This principle consist in that a class should only have one job in the code because is more easy, simple and secure a utility in the class
+
+
+O-Open Closed Principle
+
+Another principle that makes understand your utility and is the following. Object or entities should be open for extension but closed for modification so is possible extend of code without make modification in that is already developing.
+
+
+L-Liskov Substitution Principle
+
+the principle of liskov consist in that all daughter class of the father class should be used as the father class
+
+
+I-Interface Segregation Principle
+
+Never should implement interfaces that it does not use because it does not have logic 
+
+
+D-Dependency inversion Principle
+
+the modules of low-level and the high-level must not depend between them, if following this rule can do that the code depend of abstract layers.
+
+
+Dry 
+
+this programming concept is very important in development because repeating code is a horrible practice, some problems in the practice of repeat code they should be: worse scalability, generates more errors, difficulty when updating the code etc.
+
+
+Encapsulate What Changes
+
+the encapsulate is necessary for the code that is developed, maintain proper encapsulated code is a great idea very used.
+
+
+Favor Composition over Inheritance
+
+employ the inheritance unjustifiably create code with dependence and little sustainable, The flexibility of composition is best than the flexibility inheritance, the composition enable modify conduct in time from execution in conclusion is best favor the composition.
+
+Programming for Interface not implementation
+
+the programming for implementation is an error fatal to developing your code because do that you implementation be less flexible.
+
+Delegation principles
+
+the delegation principle consist in give correct work to class, the key benefits of this design principle is no duplicate code.
+
+Kiss 
+
+the concept of KISS is do a code more simple for you and other people, avoid a system complex for future updates is an excellent idea.
+
+YAGNI
+
+A principle very useful for avoid add new functionalities that will not work in the future, the concept of YAGNI is very easy than understand that in the practice the developer do not do code inecesary.
+Partners 
+
+MVC Design Pattern
+
+the partner MVC have 3 parts, of can say any form the which are:
+
+Model
+
+here contain  all the information of the aplication 
+
+View
+
+contain the interface graphic and present the model of user
+
+Controller 
+
+the controller is a conetion between the view and model explained of simple form
+
+
+Singleton Pattern
+
+the pattern singleton is an only instance of a class, this class crate an object only an object and with the intance provides acces to the object.
+
+
+Observer Pattern
+
+The concept of observer partner consist in three classes. Subject, observer and client, the subject contain a list of observer, this says that when changes the state of subject, notify to the list of observers for determine some action.
+
+State Pattern
+
+in State Pattern, we are going create states for to the change of behavior in the class, it can have many states.
+
+
+Proxy Pattern
+
+the utility into of proxy pattern is use a class for represent another class of way more easy, the second class serves of intermediary.
