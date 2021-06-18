@@ -54,16 +54,16 @@ Delegation principles
 
 the delegation principle consist in give correct work to class, the key benefits of this design principle is no duplicate code.
 
-Kiss 
+A.- Kiss 
 
 the concept of KISS is do a code more simple for you and other people, avoid a system complex for future updates is an excellent idea.
 
-YAGNI
+B.- YAGNI
 
 A principle very useful for avoid add new functionalities that will not work in the future, the concept of YAGNI is very easy than understand that in the practice the developer do not do code inecesary.
 Partners 
 
-MVC Design Pattern
+C.- MVC Design Pattern
 
 the partner MVC have 3 parts, of can say any form the which are:
 
